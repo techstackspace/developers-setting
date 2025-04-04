@@ -1,3 +1,7 @@
+# Homebrew Installation and Usage Guide
+
+[![Cover Image](https://res.cloudinary.com/bizstak/image/upload/v1743731088/GitHub/Cover%20Images/GitHub_Cover_nyhn2x.png)](https://res.cloudinary.com/bizstak/image/upload/v1743731088/GitHub/Cover%20Images/GitHub_Cover_nyhn2x.png)
+
 ## What is Homebrew?
 
 Homebrew (often called brew) is a package manager for macOS and Linux that allows users to easily install, update, and manage software applications and command-line tools.
@@ -39,7 +43,7 @@ xcode-select -p
 If it does not return a valid installation path or shows an error like "command not found", install CTL using:
 
 ```sh
-xcode-select install
+xcode-select --install
 ```
 
 This will prompt a macOS dialog to install the necessary tools. Follow the instructions and wait for the installation to complete.
