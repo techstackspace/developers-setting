@@ -1,6 +1,6 @@
 # Resources
 
-Below are the [resources for this tutorial](https://arc.net/folder/0FEF1886-1388-4176-BD94-434A72C8541C):
+Below are the [resources for this tutorial](https://arc.net/folder/CBD438DD-6633-4348-84CF-38A878F8C3B0):
 
 - **[Brew](https://brew.sh/):** A package manager for macOS and Linux that simplifies the installation and management of software.
 
@@ -35,3 +35,5 @@ Below are the [resources for this tutorial](https://arc.net/folder/0FEF1886-1388
 - **[Firefox](https://www.mozilla.org/en-US/firefox/):** A fast, open-source web browser developed by Mozilla, focused on privacy, customization, and user control.
 
 - **[Prettier](https://prettier.io/):** An opinionated code formatter that enforces a consistent style by parsing your code and reprinting it with its own rules.
+
+- **[iTerm2](https://iterm2.com/):** A free and open-source terminal emulator designed exclusively for macOS, offering a robust alternative to the default Terminal app.
