@@ -1,6 +1,6 @@
 # Homebrew Installation and Usage Guide
 
-[![Cover Image](https://res.cloudinary.com/bizstak/image/upload/v1743731088/GitHub/Cover%20Images/GitHub_Cover_nyhn2x.png)](https://res.cloudinary.com/bizstak/image/upload/v1743731088/GitHub/Cover%20Images/GitHub_Cover_nyhn2x.png)
+[![Cover Image](https://res.cloudinary.com/bizstak/image/upload/v1743988624/GitHub/Cover%20Images/GitHub_Cover_x1iuiy.png)](https://res.cloudinary.com/bizstak/image/upload/v1743988624/GitHub/Cover%20Images/GitHub_Cover_x1iuiy.png)
 
 ## What is Homebrew?
 
