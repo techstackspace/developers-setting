@@ -1,29 +1,37 @@
 # Resources
 
-Below are the resources for this tutorial:
+Below are the [resources for this tutorial](https://arc.net/folder/0FEF1886-1388-4176-BD94-434A72C8541C):
 
 - **[Brew](https://brew.sh/):** A package manager for macOS and Linux that simplifies the installation and management of software.
 
-- **[Git](https://git-scm.com/):** A distributed version control system to track changes in source code during software development.
+- **[Git](https://git-scm.com/):** A distributed version control system used to track changes in source code during software development.
 
 - **[Warp](https://www.warp.dev/):** A modern terminal application designed to enhance the command-line experience with features like split panes and collaborative sessions.
 
-- **[Amazon Q](https://aws.amazon.com/q/):** AI-powered inline code completions, natural language–to-bash translation, and contextual command-line interface (CLI) suggestions.
+- **[Amazon Q](https://aws.amazon.com/q/developer/):** An AI-powered tool that offers inline code completions, natural language-to-bash translation, and contextual command-line interface (CLI) suggestions.
 
-- **[Visual Studio Code](https://code.visualstudio.com/):** A free, open-source code editor developed by Microsoft, featuring debugging, syntax highlighting, and support for extensions.
+- **[Visual Studio Code](https://code.visualstudio.com/):** A free, open-source code editor developed by Microsoft, featuring debugging, syntax highlighting, Git integration, and support for extensions.
 
-- **[IconScout](https://iconscout.com/):** A platform providing a vast collection of icons and illustrations for design projects.
+- **[IconScout](https://iconscout.com/):** A platform offering a vast collection of icons, illustrations, and 3D assets for design projects.
 
-- **[Applite](https://aerolite.dev/applite):** A free and open-source macOS application that simplifies managing third-party apps by enabling users to download, update, and uninstall them with a single click through a clean and user-friendly interface.
+- **[Applite](https://aerolite.dev/applite):** A free and open-source macOS app that simplifies managing third-party applications by letting users install, update, and uninstall them with a clean interface.
 
-- **[Brewlet](https://github.com/zkokaja/Brewlet):** A menulet for Homebrew that keeps your packages up-to-date and your system secure.
+- **[Brewlet](https://github.com/zkokaja/Brewlet):** A menu bar utility for Homebrew that helps keep packages up-to-date and your system secure.
 
-- **[Cork](https://www.corkmac.app/):** A graphical interface for Homebrew on macOS, simplifying package management with a user-friendly design.
+- **[Cork](https://www.corkmac.app/):** A graphical interface for Homebrew on macOS, designed to make package management more user-friendly.
 
-- **[Arc](https://arc.net/):** A modern web browser that offers innovative features like Spaces and Profiles for enhanced browsing.
+- **[Arc](https://arc.net/):** A modern web browser offering innovative features like Spaces, Boosts, and custom Profiles for enhanced productivity.
 
-- **[Vim](https://www.vim.org/):** A highly configurable text editor built to efficiently create and edit any kind of text.
+- **[Vim](https://www.vim.org/):** A powerful, highly configurable text editor built for efficient text editing through keyboard commands.
 
-- **[Nano](https://www.nano-editor.org/):** A simple, easy-to-use text editor for Unix-based systems, ideal for beginners.
+- **[Nano](https://www.nano-editor.org/):** A simple, beginner-friendly text editor for Unix-based systems, accessible directly from the terminal.
 
 - **[Homebrew Installation and Usage Guide](https://dev.to/bello/homebrew-installation-and-usage-guide-5b6j):** A comprehensive guide on installing and using Homebrew, including tips on managing packages and understanding different package types.
+
+- **[MAS](https://github.com/mas-cli/mas):** A command-line interface for the Mac App Store, useful for scripting and automation of macOS app installations.
+
+- **[Xcode](https://developer.apple.com/xcode/):** Apple's integrated development environment (IDE) for building apps across macOS, iOS, iPadOS, watchOS, and tvOS platforms.
+
+- **[Firefox](https://www.mozilla.org/en-US/firefox/):** A fast, open-source web browser developed by Mozilla, focused on privacy, customization, and user control.
+
+- **[Prettier](https://prettier.io/):** An opinionated code formatter that enforces a consistent style by parsing your code and reprinting it with its own rules.
