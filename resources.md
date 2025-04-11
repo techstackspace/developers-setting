@@ -1,6 +1,6 @@
 # Resources
 
-Below are the [resources for this tutorial](https://arc.net/folder/CBD438DD-6633-4348-84CF-38A878F8C3B0):
+Below are the [resources for this tutorial](https://arc.net/folder/FBC776BF-BC29-48F4-B019-E3B969C326A3):
 
 - **[Brew](https://brew.sh/):** A package manager for macOS and Linux that simplifies the installation and management of software.
 
