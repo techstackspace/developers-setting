@@ -4,6 +4,8 @@ Below are the [resources for this tutorial](https://arc.net/folder/FBC776BF-BC29
 
 - **[YouTube](https://youtu.be/rCSUX_YiMpY?si=O9Bi0Z4WLnQoLmBq):** A video version of the documentation explaining how to use Homebrew, including usage guides.
 
+- **[Slides (Google Drive)](https://drive.google.com/file/d/1YTTEIWc2PY78GCKOyqWp43kVTGCXR0uT/view?usp=sharing):** To download the slides used in this tutorial, please request access via the link.
+
 - **[Brew](https://brew.sh/):** A package manager for macOS and Linux that simplifies the installation and management of software.
 
 - **[Git](https://git-scm.com/):** A distributed version control system used to track changes in source code during software development.
