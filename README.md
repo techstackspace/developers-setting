@@ -1,6 +1,6 @@
 # Homebrew Installation and Usage Guide
 
-[![Cover Image](https://res.cloudinary.com/bizstak/image/upload/v1744345525/cover_images/cover_images/homebrew_installation_and_usage_guide_angsru.png)](https://youtu.be/rCSUX_YiMpY?si=O9Bi0Z4WLnQoLmBq)
+[![Cover Image](https://res.cloudinary.com/dv6yqup4h/image/upload/v1752424054/TechstackSpace/Blog%20Covers/GitHub_Cover_Image_mah8xt.png)](https://youtu.be/rCSUX_YiMpY?si=O9Bi0Z4WLnQoLmBq)
 
 ## What is Homebrew?
 
