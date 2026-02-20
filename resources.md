@@ -12,7 +12,7 @@ Below are the [resources for this tutorial](https://arc.net/folder/FBC776BF-BC29
 
 - **[Warp](https://www.warp.dev/):** A modern terminal application designed to enhance the command-line experience with features like split panes and collaborative sessions.
 
-- **[Amazon Q](https://aws.amazon.com/q/developer/):** An AI-powered tool that offers inline code completions, natural language-to-bash translation, and contextual command-line interface (CLI) suggestions.
+- **[Kiro CLI](https://kiro.dev/docs/cli/):** An AI-powered command-line tool that provides inline code completions, translates natural language into Bash commands, and delivers contextual CLI suggestions to boost developer productivity.
 
 - **[Visual Studio Code](https://code.visualstudio.com/):** A free, open-source code editor developed by Microsoft, featuring debugging, syntax highlighting, Git integration, and support for extensions.
 

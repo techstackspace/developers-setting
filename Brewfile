@@ -1,5 +1,5 @@
 brew "git"
-cask "amazon-q"
+cask "kiro-cli"
 cask "arc"
 cask "firefox"
 cask "visual-studio-code"
